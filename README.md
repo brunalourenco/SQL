@@ -1,5 +1,8 @@
-#  Queries SQL  - Inspeção de Navios
+#  Queries SQL 
 
-Exercícios utilizando dados abertos da Anvisa sobre Inspeção de Navios de Cruzeiros.
+Repositório de materiais e exercícios utilizando MySQL para Análise de Dados.
+
+Tendo como ponto de partida o comando SELECT.
+
 
 
